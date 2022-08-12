@@ -17,3 +17,10 @@
 /* SIZES */
 #define S_LONG 2
 #define S_SHORT 1
+
+/**
+ * struct fmt - Struct op
+ *
+ * @fmt: The format..
+ * @fn: The function associated.
+ */
